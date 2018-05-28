@@ -1,0 +1,10 @@
+div.ParisImagen {
+    background:url("../images/paris1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.EnBlanco {
+    height: 400px;
+    
+}
